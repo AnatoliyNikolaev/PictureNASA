@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class MyTelegramBot extends TelegramLongPollingBot {
 
-    public static final String BOT_TOKEN = "5868379241:AAFBVhEGVS2c0_jB6jAllT9He3t30fBjqA";
+    public static final String BOT_TOKEN = "5868379241:AAFBVhEGVS2c0_jB6jAllT9He3t30fB";
 
     public static final String BOT_USERNAME = "NikkiNassa_Bot";
 
