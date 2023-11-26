@@ -1,4 +1,4 @@
-Задание "Получаем картинку от NASA"
+﻿Задание "Получаем картинку от NASA"
 
 Что нужно сделать
 
@@ -76,4 +76,4 @@ CloseableHttpClient httpClient = HttpClientBuilder.create()
     Сохраните тело ответа в файл с именем части url;
     Проверьте, что файл скачивается и открывается;
     Готово!
-https://raw.githubusercontent.com/Institute-of-Coding-Northumbria/nasa-pod/master/doc/preview.gif
+![](https://raw.githubusercontent.com/Institute-of-Coding-Northumbria/nasa-pod/master/doc/preview.gif)
