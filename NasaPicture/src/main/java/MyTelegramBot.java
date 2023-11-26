@@ -13,7 +13,7 @@ public class MyTelegramBot extends TelegramLongPollingBot {
 
     public static final String BOT_USERNAME = "NikkiNassa_Bot";
 
-    public static final String URI = "https://api.nasa.gov/planetary/apod?api_key=DgtY6e3nOKdvN8gfrhYeHxa8kdvGIxFjFdstfUJo";
+    public static final String URI = "https://api.nasa.gov/planetary/apod?api_key=DgtY6e3nOKdvN8gfrhYeHxa8kdvGIxFjFd";
 
     public static long chat_id;
 
